@@ -5,7 +5,7 @@ const program = require('commander');
 const pkg = require('../package.json');
 program
     .version(pkg.version)
-    .command('key','Manage API key --https://coinlayer.com')
+    .command('key','Manage API key --https://coinomicsyer.com')
     .command('check','Check coin price info')
     .parse(process.argv);
 
