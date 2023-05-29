@@ -2,7 +2,7 @@
 
 Get ALL Crypto Coin rates in real-time through your command line interface!
 
-Get your free API key from [coinlayer.com](https://coinlayer.com/) and set it through this app to get the rate of any coin you want!
+Get your free API key from [coinapi.io](https://www.coinapi.io/) and set it through this app to get the rate of any coin you want!
 
 ## Installing
 
@@ -19,7 +19,7 @@ To check if it's running:
 All commands begin with the keyword `coindex`. You can get a list of all sub-commands of any command by appending `-h`.
 
 1. `key`
-   - The `key` command helps you set, show, and remove the API key you obtained from [coinlayer.com](https://coinlayer.com/).
+   - The `key` command helps you set, show, and remove the API key you obtained from [coinapi.io](https://www.coinapi.io/).
    - Sub-commands:
      - `key set`: Sets the API key.
      - `key show`: Shows your current API key.
